@@ -10,3 +10,9 @@ STATUS: List what you are doing
 Remember to remove your 'LOCK' when done and ensure that push has relevant comments to actions done.
 
 Log:
+
+FILE: Patch 2.aedt
+LOCKED BY: Christian Galvez (9067-53748)
+START: 10/21/2025 @ 18:51
+STATUS: Adjusting patch dimensions; circular polarization to be done.
+

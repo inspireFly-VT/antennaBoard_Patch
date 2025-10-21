@@ -1,0 +1,14 @@
+Starting run: 02-Oct-2025 17:15:30
+
+
+Optimized variables:
+ Board_W = 40.3510583348 mm
+ PatchFrac = 0.1476863192
+ FeedFrac = -0.5309777073
+
+Optimized performance:
+ Gain = -6.97 dBi
+ |Z| = 0.3 Ω (Z = 0.0 + j0.3 Ω)
+ RL = 0.00 dB
+ AR(b) = 2.33 dB
+
